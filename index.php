@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
-        <meta char=”utf-8” />
+        <meta charset=utf-8 />
         <title> Starlink: Informational Website </title>
         <link href="css/styles.css" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css2?family=Spartan:wght@100;300&display=swap" rel="stylesheet">
-
     </head>
     <body>
         <header>
             <br><br />
-            <a href="index.html">
+            <a href="index.php">
                 <img src="img/starlink.png" alt="Starlink logo">
             </a>
         </header>
@@ -28,7 +27,7 @@
         </div>
         
         <article>
-            <br />
+            <h2>The Future of Satellite Internet</h2>
             Launching thousands of low-orbit ion propulsion satellites into earth's atmosphere,
             SpaceX is embarking on a mission to provide low-cost, broadband internet to the entire world.
             This will provide access to remote areas and allow for lower latency than previously possible.

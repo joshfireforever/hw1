@@ -16,7 +16,7 @@ img {
     text-align: center;
 }
 
-header, main, nav {
+header, nav {
     text-align: center;
 }
 
@@ -63,10 +63,11 @@ article {
     line-height: 1.4;
 }
 
-h1 {
+h2 {
    font-family: 'Spartan', sans-serif;
-   font-size: 4em;
+   font-size: 2em;
    margin-bottom: 0px;
+   text-align: center;
    
 }
 

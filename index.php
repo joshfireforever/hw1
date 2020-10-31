@@ -37,7 +37,6 @@
         </article>
         
         <footer>
-            <hr>
             
             <div class="refs">
                 References: <br />

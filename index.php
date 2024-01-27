@@ -34,7 +34,7 @@
             These satellites were designed to interlink, be lighter and more compact, and to be removable
             from orbit after they expire.  The end user will be able to purchase an initial setup package
             and then pay a monthly subscription to access this global internet service.<br /><br />
-        </article>
+        </article> 
         
         <footer>
             
